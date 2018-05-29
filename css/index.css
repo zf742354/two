@@ -1,0 +1,26 @@
+body{
+    background: url(../image/1.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: top center;
+}
+
+
+.floor-1{
+    height: 40vh;
+    padding: 1rem 1.06rem .9rem .93rem;
+
+}
+
+.img2{
+    height: 2.78rem;
+    width: 5.51rem;
+}
+
+
+
+
+
+
+
+
