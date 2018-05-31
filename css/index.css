@@ -5,22 +5,42 @@ body{
     background-position: top center;
 }
 
-
 .floor-1{
-    height: 40vh;
-    padding: 1rem 1.06rem .9rem .93rem;
-
+    padding: 1rem 0 .94rem;
 }
+
 
 .img2{
     height: 2.78rem;
     width: 5.51rem;
 }
 
+.swiper-container {
+    height: 50vh;
+}
+.swiper-slide{
+    border-radius: 20px;
+}
 
+.h-1{
+    font-size: .36rem;
+    color: #050505;
+    margin: .37rem 0 .38rem;
+}
+.img-1{
+    height: 3.35rem;
+    width: 3.35rem;
+}
 
-
-
-
-
+.span-1{
+    font-size: .3415rem;
+    margin-top: .41rem;
+}
+.span-2{
+    color: #188fe3;
+}
+.span-3{
+    color: #999;
+    font-size: .2931rem;
+}
 
